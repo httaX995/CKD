@@ -62,6 +62,8 @@
     "acrcloud":"latest",
     "xml2js":"0.6.2",
     "jimp": "^0.22.12",
+    "@sl-code-lords/movie-api": "1.0.0",
+    "pixaldrain-sinhalasub": "git+https://github.com/mrsupunfernando12/pixaldrain-sinhalasub.git",
     "cricketlive": "latest"
   }
 }
